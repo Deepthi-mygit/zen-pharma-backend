@@ -11,7 +11,11 @@
   </parent>
   <groupId>com.pharma</groupId>
   <artifactId>auth-service</artifactId>
+<<<<<<< HEAD
   <version>1.0.4</version>
+=======
+  <version>2.0.0</version>
+>>>>>>> f3ac71ceb0fecc137ce95db614c5d870589443f6
   <packaging>jar</packaging>
   <name>auth-service</name>
 
